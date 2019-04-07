@@ -15,3 +15,4 @@ Includes my exercise solutions and projects from complete python bootcamp online
 4. **"mk004-project_tic_tac_toe_game.ipynb"**: A text based tic-tac-toe game.
 5. **"mk005-object_oriented_programming_homework.ipynb"**: Homework assignment solutions for object oriented programming in python.
 6. **"mk006-object_oriented_programming_challenge.ipynb"**: Challenge exercise solutions for object oriented programming in python.
+7. **"mk007-errors_and_exceptions_homework.ipynb"**: Homework assignment solutions for error and exception handling in python.
