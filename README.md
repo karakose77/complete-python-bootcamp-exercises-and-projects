@@ -16,3 +16,4 @@ Includes my exercise solutions and projects from complete python bootcamp online
 5. **"mk005-object_oriented_programming_homework.ipynb"**: Homework assignment solutions for object oriented programming in python.
 6. **"mk006-object_oriented_programming_challenge.ipynb"**: Challenge exercise solutions for object oriented programming in python.
 7. **"mk007-errors_and_exceptions_homework.ipynb"**: Homework assignment solutions for error and exception handling in python.
+8. **"mk008-project_text_based_blackjack.ipynb"**: A text based blackjack game.
