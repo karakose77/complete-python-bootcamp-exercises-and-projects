@@ -20,3 +20,4 @@ Includes my exercise solutions and projects from complete python bootcamp online
 9. **"mk009-built_in_function_test.ipynb"**: Test assignment solutions for built-in python functions `map`, `reduce`, `filter`, `zip` and `enumerate`.
 10. **"mk010-generators_homework.ipynb"**: Homework assignment solutions for generators in python.
 11. **"mk011-project_alarm_clock.ipynb"**: A simple clock where it plays a sound after X number of minutes/seconds or at a particular time.
+12. **"mk012-project_bin_dec_converter.ipynb"**: Converts a decimal number to binary and a binary number to decimal.
