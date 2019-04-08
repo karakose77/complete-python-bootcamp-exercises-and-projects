@@ -18,3 +18,4 @@ Includes my exercise solutions and projects from complete python bootcamp online
 7. **"mk007-errors_and_exceptions_homework.ipynb"**: Homework assignment solutions for error and exception handling in python.
 8. **"mk008-project_text_based_blackjack.ipynb"**: A text based blackjack game.
 9. **"mk009-built_in_function_test.ipynb"**: Test assignment solutions for built-in python functions `map`, `reduce`, `filter`, `zip` and `enumerate`.
+10. **"mk010-generators_homework.ipynb"**: Homework assignment solutions for generators in python.
