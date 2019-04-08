@@ -19,3 +19,4 @@ Includes my exercise solutions and projects from complete python bootcamp online
 8. **"mk008-project_text_based_blackjack.ipynb"**: A text based blackjack game.
 9. **"mk009-built_in_function_test.ipynb"**: Test assignment solutions for built-in python functions `map`, `reduce`, `filter`, `zip` and `enumerate`.
 10. **"mk010-generators_homework.ipynb"**: Homework assignment solutions for generators in python.
+11. **"mk011-project_alarm_clock.ipynb"**: A simple clock where it plays a sound after X number of minutes/seconds or at a particular time.
