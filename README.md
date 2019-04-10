@@ -27,3 +27,4 @@ Includes my exercise solutions and projects from complete python bootcamp online
 16. **"mk016-project_converter.ipynb"**: Converts various units to one another. The user enters the value and its type.
 17. **"mk017-project_fast_fibonacci_sequence.ipynb"**: Returns first given number of Fibonacci sequence.
 18. **"mk018-project_mortgage_calculator.ipynb"**: Calculates the monthly payments of a fixed term mortgage over a given number of terms and at a given interest rate.
+19. **"mk019-text_based_adventure_game.ipynb"**: A simple text based adventure game similar to MUD's of 90's.
