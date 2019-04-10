@@ -28,3 +28,4 @@ Includes my exercise solutions and projects from complete python bootcamp online
 17. **"mk017-project_fast_fibonacci_sequence.ipynb"**: Returns first given number of Fibonacci sequence.
 18. **"mk018-project_mortgage_calculator.ipynb"**: Calculates the monthly payments of a fixed term mortgage over a given number of terms and at a given interest rate.
 19. **"mk019-text_based_adventure_game.ipynb"**: A simple text based adventure game similar to MUD's of 90's.
+20. **"mk020-project_prime_factorization.ipynb"**: Returns a list of tuples where the first numbers of the tuples are the prime factors and the second ones are the power of that factors of the given number.
