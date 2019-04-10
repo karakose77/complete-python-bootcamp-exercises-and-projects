@@ -26,4 +26,3 @@ Includes my exercise solutions and projects from complete python bootcamp online
 15. **"mk015-project_constant_to_nth_digit.ipynb"**: Calculate "pi" and "e" constants to the number digits decided by the user.
 16. **"mk016-project_converter.ipynb"**: Converts various units to one another. The user enters the value and its type.
 17. **"mk017-project_fast_fibonacci_sequence.ipynb"**: Returns first given number of Fibonacci sequence.
-18. **"mk018-project_mortgage_calculator.ipynb"**: Calculates the monthly payments of a fixed term mortgage over a given number of terms at a given interest rate.
