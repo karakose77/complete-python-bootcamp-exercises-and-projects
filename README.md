@@ -2,7 +2,7 @@
 
 Includes my exercise solutions and projects from complete python bootcamp online course. The files are in jupyter notebook format and "~/.ipython/profile_default/ipython_kernel_config.py" file should have the following lines:
 
-`c.IPKernelApp.matplotlib = 'inline'`  
+`c.IPKernelApp.matplotlib = 'inline'`
 `c.InlineBackend.figure_format = 'retina'`
 
 ---
@@ -33,3 +33,8 @@ Includes my exercise solutions and projects from complete python bootcamp online
 22. **["mk022-string_bits.ipynb"](https://github.com/karakose77/complete-python-bootcamp-exercises-and-projects/blob/master/mk022-string_bits.ipynb)**: Given a string, returns a new string made of every other character starting with the first, so "Hello" yields "Hlo".
 23. **["mk023-end_other.ipynb"](https://github.com/karakose77/complete-python-bootcamp-exercises-and-projects/blob/master/mk023-end_other.ipynb)**: Given two strings, return True if either of the strings appears at the very end of the other string, ignoring upper/lower case differences (in other words, the computation should not be "case sensitive").
 24. **["mk024-double_char.ipynb"](https://github.com/karakose77/complete-python-bootcamp-exercises-and-projects/blob/master/mk024-double_char.ipynb)**: Given a string, return a string where for every char in the original there are two.
+25. **["mk025-no_teen_sum.ipynb"](https://github.com/karakose77/complete-python-bootcamp-exercises-and-projects/blob/master/mk025-no_teen_sum.ipynb)**: Given 3 int values, a b c, "no_teen_sum" function returns their sum according to the teen rule. The teen rule is as follows:
+    * If any of the given values is a teen -- in the range 13-19 inclusive -- then that value counts as 0.
+    * 15 and 16 do not count as a teen.
+
+    The helper function "fix_teen" takes in an int value and returns that value fixed for the teen rule.
