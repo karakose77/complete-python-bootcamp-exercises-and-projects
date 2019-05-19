@@ -38,3 +38,4 @@ Includes my exercise solutions and projects from complete python bootcamp online
     * 15 and 16 do not count as a teen.
 
     The helper function "fix_teen" takes in an int value and returns that value fixed for the teen rule.
+26. **["mk026-count_evens.ipynb"](https://github.com/karakose77/complete-python-bootcamp-exercises-and-projects/blob/master/mk026-count_evens.ipynb)**: Returns the number of even integers in the given array.
