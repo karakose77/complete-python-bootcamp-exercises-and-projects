@@ -39,3 +39,13 @@ Includes my exercise solutions and projects from complete python bootcamp online
 
     The helper function "fix_teen" takes in an int value and returns that value fixed for the teen rule.
 26. **["mk026-count_evens.ipynb"](https://github.com/karakose77/complete-python-bootcamp-exercises-and-projects/blob/master/mk026-count_evens.ipynb)**: Returns the number of even integers in the given array.
+27. **["mk027-code_breaker.ipynb"](https://github.com/karakose77/complete-python-bootcamp-exercises-and-projects/blob/master/mk027-code_breaker.ipynb)**: The computer will think of 3 digit number that has no repeating digits.
+
+    * You will then guess a 3 digit number. 
+    * The computer will then give back clues.
+    * Based on these clues you will guess again until you break the code with a match!
+    * The possible clues are:  
+        
+        Close: You've guessed a correct number but in the wrong position.  
+        Match: You've guessed a correct number in the correct position.  
+        Nope: You haven't guess any of the numbers correctly.  
