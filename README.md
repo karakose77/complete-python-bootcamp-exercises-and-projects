@@ -2,7 +2,7 @@
 
 Includes my exercise solutions and projects from complete python bootcamp online course. The files are in jupyter notebook format and "~/.ipython/profile_default/ipython_kernel_config.py" file should have the following lines:
 
-`c.IPKernelApp.matplotlib = 'inline'`
+`c.IPKernelApp.matplotlib = 'inline'`  
 `c.InlineBackend.figure_format = 'retina'`
 
 ---
